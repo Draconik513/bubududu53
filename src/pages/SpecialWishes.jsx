@@ -6,15 +6,12 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-HAPPY BIRTHDAYY SAYANGGKU CINTA KU BUBUBB KUU YANG KE 21 💐✨🫶🏻💗💗
-
-selamaaat bertambahh umurrr bububb, semogaaa semuaa doa kamu semua impian kamu bisa terwujudd di tahun iniiii 💟💟
-maaaf yaa akuu gaa bisa ngasih apaa apaa cuma bisa doain kamu yangg terbaikkk 🥹🫶🏻, semogaa kamu selaluuu bahagiaa, terus diberi kesehatan, dilancarkan rezekinya, dipermudahkan segala urusan kamuu, dikelilingi orang orang yang baikk dan bermanfaat, aku selalu doa mudah-mudahan hatimu diberi kelapangan dan kesabaran atas hal apapun, kamu layakk dicintai bubb dan dirayakan dalam segala hal mau hal sekecil apapunn yang kamu perbuat layak dirayakan, semogaa hubungan kita bukan cuma lamaa tapii selamanyaa langgenggg jugaaa hehehe, ayoo kitaaa buktiin kalo pacarann VIRTUAL ituu bisaaa bertahan lamaaa bahkann bisa selamanyaa, akuu bakalan selalu sayangg kamu setiap harii setiap jam setiap menit setiap detikkk 💗💗.
-kamuu kalo ada apa apaa
-bilangg yaa bubb ke akuu, kamuu sudaaa punyaa pacarrrr jadii haruuss ngomong,ceritaa ke akuu yaaa,aku siapp kokk jadi pendengarr kamuu 🫰🏻.
-OOH YAA..
-makasiiiiii udah bikin hidup aku lebih happy, with everything about aku beruntung banget udah ketemu kamu bubb dan kenal kamu i am also very lucky to have you i love you infinitely, jangan ngerasaaa kamu sendirii yaaa sayanggggg, I always love you 💗💗💗🫶🏻
-
+Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡, dan kebahagiaan yang tiada akhir 🌈✨.
+Aku tahu hidup tidak selalu mudah 🌧, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡💆‍♀.
+Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤.
+Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
+Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
+Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
   `;
 
   return (
@@ -84,7 +81,7 @@ makasiiiiii udah bikin hidup aku lebih happy, with everything about aku beruntun
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Syahroni Reyhan Aldyck 💖
+                  Ahmad Rahmanto💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hatiku hanya untukmu, sayang🥹

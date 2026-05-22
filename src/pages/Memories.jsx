@@ -19,49 +19,41 @@ const Memories = ({ isIOS }) => {
           transition={{ delay: 0.3 }}
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
-          <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Permintaan Maafku di Hari Ulang Tahunmu
-          </h2>
+           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
+  Permintaan Maafku di Hari Ulang Tahunmu
+</h2>
 
-          <div className="text-left text-pink-800 space-y-4 leading-relaxed">
-            <p>
-              💌 <strong>Maaf ya, Sayang...</strong>
-            </p>
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 0.6 }}
-            >
-              Maafff yaa bubb kalau selama ini aku pernah cuek bahkann nyakitin
-              kamu, atau kurang peka sama perasaan kamuu.
-            </motion.p>
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 1.2 }}
-            >
-              Maaff jugaa bubb kalau kadang aku bikin kamu kecewa, salah paham,
-              atau merasa sendiriii. Aku ndaa pernah berniat nyakitin kamuu
-              bubb🥹. Semua itu karena aku manusia biasa yang masih belajar
-              mencintaimu dengan lebih baik💟
-            </motion.p>
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 1.8 }}
-            >
-              Makaacii jugaa bubb sudah sabarr, sudah tetap samaa aku. Aku akan
-              terus belajar jadi lebih baik lagi... untuk kamu 💗💗
-            </motion.p>
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 1.8 }}
-            >
-              Maaf yaaa bubb, dan makaciiih karena kamu tetap percaya sama
-              akuuu🥹🫶🏻💗💟
-            </motion.p>
-          </div>
+<div className="text-left text-pink-800 space-y-4 leading-relaxed">
+  <p>
+    💌 <strong>Maaf ya, Sayang...</strong>
+  </p>
+  <motion.p
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 1, delay: 0.6 }}
+  >
+    Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau kurang
+    peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu kecewa, salah
+    paham, atau merasa sendiri 😓. Aku gak pernah berniat nyakitin kamu 🥺.
+    Semua itu karena aku manusia biasa yang masih belajar mencintaimu dengan
+    lebih baik 🤍.
+  </motion.p>
+  <motion.p
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 1, delay: 1.2 }}
+  >
+    Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus belajar
+    jadi lebih baik lagi... untuk kamu 💗
+  </motion.p>
+  <motion.p
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 1, delay: 1.8 }}
+  >
+    🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
+  </motion.p>
+</div>
         </motion.div>
 
         <motion.button
