@@ -6,13 +6,12 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Selamat ulang tahun sayangku cintaku 😘 Meskipun hari ini kita nggak bisa tiup lilin bareng karena jarak, namun doaku membersamai Semoga di usia yang baru, sayang makin sukses, sehat, dan semua impianmu terwujud. 
-
-Makasih ya tetap selalu ada buat aku lewat telepon, chat. Semoga sayang sehat selalu, makin sukses kerjanya, dan selalu bahagia. Jangan lupa makan enak hari ini cintaku.❤️
-
-Semangat ya sayang, mi paham, kita masih sama2 berproses, ada tanggung jawab yg harus diselesaikan, ada impian yg ingin diwujudkan, hingga kita masih harus LDR, bismillah Allah memantaskan mendukung ian dan mi akhirnya pulang kerumah yg sama sebagai pasangan yg sah, aamiin🙏🏻
-
-Happy birthday, my favorite person! I love you much ❤️
+Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡, dan kebahagiaan yang tiada akhir 🌈✨.
+Aku tahu hidup tidak selalu mudah 🌧, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡💆‍♀.
+Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤.
+Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
+Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
+Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
 `
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-100 to-purple-100 p-4 flex flex-col items-center justify-center">
@@ -81,7 +80,7 @@ Happy birthday, my favorite person! I love you much ❤️
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Alvian Reansyah Kodja💖
+                  Dimaz Veno Djuniartha💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹
