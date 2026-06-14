@@ -80,7 +80,7 @@ Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Dhea Alvionita💖
+                  Endang Puji Rahayu💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹
