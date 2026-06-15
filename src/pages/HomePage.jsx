@@ -66,7 +66,7 @@ const HomePage = ({ isIOS }) => {
             <p className="text-pink-800 italic">
              "Untuk kamu yang aku sayang, di hari spesialmu ini, aku mau ngucapin banyak terima kasih. Terima kasih sudah ada di dunia ini dan menjadi bagian dari ceritaku🤍"
             </p>
-            <p className="mt-4 text-right text-pink-600 font-medium">- Stevany</p>
+            <p className="mt-4 text-right text-pink-600 font-medium">- Diii</p>
           </div>
         </motion.div>
 
