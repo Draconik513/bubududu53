@@ -6,16 +6,11 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Selamat ulang tahun yang ke-28! Cieee udah tua aja iniii 🤏🏻🎂  
-Aku nggak nyangka bisa sedeket ini sama kamu ✨, dan aku harap ke depannya juga tetep gini ya? Semoga tahun depan aku juga bisa ngucapin lagi, hehe 😚  
-
-Semoga kamu selalu sehat 🍀, rezekinya lancar terus 💸, semua masalahnya mulai terangkat dan jadi lebih bahagia ke depannya 🌈  
-Makasih ya sudah hadir di hidup aku walaupun cuma virtual 🙆🏻‍♀️🙆🏻‍♀️💻 Semoga bisa cepet ketemu, okeeyyy ✈️ Makasih sudah memaklumi sifat aku yang kekanakan , makasih karena nggak bosen sama semua ocehan aku yang nggak penting 😉🫶🏻  
-Kamu keren tau udah bertahan sejauh ini . Coba liat ke belakang deh, apa yang udah kamu lalui itu berat . Aku bangga banget sama kamu 🫡  
-
-Semoga tahun ini yang kamu inginkan segera tercapai 🌟, semua langkah yang kamu tempuh dipermudah, jadi pribadi yang lebih baik lagi 😗😗  
-Happy birthday sayangkuuuu 🎉🎈, jaga diri baik-baik yaaa 🧸  
-Sinii hug 🫂🫂💗
+Mas ku ,aku ingin berdoa agar mas selalu dalam lindungan Allah, diberi kesehatan ,kekuatan dan kebahagiaan yang tiada akhir ,
+Aku tahu hidup tidak selalu mudah, tapi aku ingin mas  tahu bahwa mas tidak sendiri ,aku akan selalu mendukung mas, menyemangati mas, dan menjadi pundak mas saat mas lelah, 
+Semoga setiap langkah mas penug keberkahan, dan setiap impian mas satu per satu menjadi kenyataan, 
+Jika suatu hari mas ragu atau takut, ingatlah semoga mas selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah ,termasuk dari bidadari mas ini 😁
+I love you mas ku yg jelek ❤️❤️
 `
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-100 to-purple-100 p-4 flex flex-col items-center justify-center">
@@ -84,7 +79,7 @@ Sinii hug 🫂🫂💗
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Reviandra💖
+                  Junaedi💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹

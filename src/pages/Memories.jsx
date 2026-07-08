@@ -39,39 +39,17 @@ const Memories = ({ isIOS }) => {
          
          <div className="text-left text-pink-800 space-y-4 leading-relaxed">
            <p>
-             💌 <strong>Maaf ya, sayangg..</strong>
+             💌 <strong>Maaf ya mas</strong>
            </p>
            <motion.p
              initial={{ opacity: 0, y: 20 }}
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 0.6 }}
            >
-            Maaf kalau aku nggak bisa jadi apa yang kamu mau. Maaf kalau aku nggak sesuai ekspektasi kamu. Maaf kalau aku nggak kayak masa lalumu 😔  
+            Kalo aku masih cuek, belum bisa ngatur waktu, 
+Makasih sudah sabar sama aku mas 
            </motion.p>
-      
-           <motion.p
-             initial={{ opacity: 0, y: 20 }}
-             animate={{ opacity: 1, y: 0 }}
-             transition={{ duration: 1, delay: 0.6 }}
-           >
-         Maaf kalau aku sering bikin kamu kesel hehe 😗🫶🏻 beberapa kali emang sengaja sih, biar diperhatiin. 
-           </motion.p>
-      
-           <motion.p
-             initial={{ opacity: 0, y: 20 }}
-             animate={{ opacity: 1, y: 0 }}
-             transition={{ duration: 1, delay: 0.6 }}
-           >
-           Maaf bikin kamu ceramahin aku terus. Tapi aku seneng kok kalau kamu marahin aku untuk hal baik, buat bikin aku jadi versi yang lebih baik lagi 😉😉
-           </motion.p>
-           <motion.p
-             initial={{ opacity: 0, y: 20 }}
-             animate={{ opacity: 1, y: 0 }}
-             transition={{ duration: 1, delay: 0.6 }}
-           >
-          Maaf untuk semua salahku, dan makasih banget udah mau ada di hidupku 🤍
-           </motion.p>
-      
+    
          </div>
 
         </motion.div>
@@ -170,7 +148,7 @@ const Memories = ({ isIOS }) => {
             transition={{ delay: 2.2 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            🌸 Bunga ini sebagai hadiah dari permintaan maaf bubu, Sayang dudu... Tolong di terima yaa 😘😘
+            🌸 Bunga ini sebagai hadiah dari permintaan maaf dariku, Tolong di terima yaa 😘😘
           </motion.p>
         )}
       </motion.div>
