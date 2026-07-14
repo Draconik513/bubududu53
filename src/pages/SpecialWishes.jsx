@@ -6,11 +6,16 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Mas ku ,aku ingin berdoa agar mas selalu dalam lindungan Allah, diberi kesehatan ,kekuatan dan kebahagiaan yang tiada akhir ,
-Aku tahu hidup tidak selalu mudah, tapi aku ingin mas  tahu bahwa mas tidak sendiri ,aku akan selalu mendukung mas, menyemangati mas, dan menjadi pundak mas saat mas lelah, 
-Semoga setiap langkah mas penug keberkahan, dan setiap impian mas satu per satu menjadi kenyataan, 
-Jika suatu hari mas ragu atau takut, ingatlah semoga mas selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah ,termasuk dari bidadari mas ini 😁
-I love you mas ku yg jelek ❤️❤️
+Selamat ulang tahun, sayang. 🤍
+
+Terima kasih sudah hadir di hidupku dan menjadi salah satu alasan aku tersenyum setiap hari. Semoga di usia yang baru ini semua doa, harapan, dan cita-cita kamu satu per satu bisa terwujud. Semoga kamu selalu diberi kesehatan, kebahagiaan, rezeki yang berkah, dan selalu dalam lindungan Allah.
+
+Aku bangga punya kamu sayangku. Terima kasih karena sudah selalu berusaha, menguatkanku, dan membuat hari-hariku terasa lebih indah. Semoga hubungan kita juga semakin dewasa, semakin saling mengerti, dan semoga Allah mengizinkan kita untuk terus bersama sampai waktu yang tepat.
+
+Ingat ya, apa pun yang terjadi, aku akan selalu mendukungmu dan mendoakan yang terbaik untuk kamu..Semoga hari ini menjadi awal dari tahun yang penuh kebahagiaan dan keberkahan. Aamiin
+
+Happy Birthday, cintaku. Aku sayang kamu, hari ini, besok, dan sampai selamanya. ❤️
+
 `
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-100 to-purple-100 p-4 flex flex-col items-center justify-center">
@@ -79,7 +84,7 @@ I love you mas ku yg jelek ❤️❤️
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Junaedi💖
+                  Dikdik Alimudin Dzulyadaen Ijazi💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹
